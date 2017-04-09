@@ -1,5 +1,7 @@
 # Crazy Running
 
+> A little nonsense now and then, is cherished by the wisest men. — Roald Dahl
+
 What is Crazy Running?
 
 Crazy Running is running in such a way that is infinitely cooler than traditional running or jogging. Here’s how it works:
