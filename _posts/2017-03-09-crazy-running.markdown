@@ -19,5 +19,5 @@ This is Crazy Running. Try it. Experiment with it. Bring out your inner kid. Be 
 Photo taken by Crazy Runner co-creator Mark Wetzler.
 
 Crazy Running
-©2016 Crazy Running, Steven Gilbert and Mark Wetzler. All rights reserved.
+©2016 Crazy Running, <a href="https://www.gilbertindex.com/">Steven Gilbert</a> and <a href="http://whereswetzler.com/">Mark Wetzler</a>. All rights reserved.
 Crazy Running is a copyright of Steven Gilbert and Mark Wetzler.
