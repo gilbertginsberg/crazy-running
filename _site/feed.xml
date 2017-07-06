@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-22T10:46:38-04:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-06T17:24:24-04:00</updated><id>http://localhost:4000/</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Crazy Running</title><link href="http://localhost:4000/2017/03/09/crazy-running.html" rel="alternate" type="text/html" title="Crazy Running" /><published>2017-03-09T00:00:00-05:00</published><updated>2017-03-09T00:00:00-05:00</updated><id>http://localhost:4000/2017/03/09/crazy-running</id><content type="html" xml:base="http://localhost:4000/2017/03/09/crazy-running.html">&lt;p&gt;What is Crazy Running?&lt;/p&gt;
 
 &lt;p&gt;Crazy Running is running in such a way that is infinitely cooler than traditional running or jogging. Here’s how it works:&lt;/p&gt;
@@ -16,5 +16,5 @@
 &lt;p&gt;Photo taken by Crazy Runner co-creator Mark Wetzler.&lt;/p&gt;
 
 &lt;p&gt;Crazy Running
-©2016 Crazy Running, Steven Gilbert and Mark Wetzler. All rights reserved.
+©2016 Crazy Running, &lt;a href=&quot;https://www.gilbertindex.com/&quot;&gt;Steven Gilbert&lt;/a&gt; and &lt;a href=&quot;http://whereswetzler.com/&quot;&gt;Mark Wetzler&lt;/a&gt;. All rights reserved.
 Crazy Running is a copyright of Steven Gilbert and Mark Wetzler.&lt;/p&gt;</content><author><name></name></author><summary type="html">What is Crazy Running?</summary></entry></feed>

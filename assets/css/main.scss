@@ -1,12 +1,31 @@
 ---
 
 ---
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
 
 * {
   box-sizing: border-box;
 }
 
 body {
+  color: #490a3d;
+  background-color: #ffff00;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: medium;
+}
+
+.site-container {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  color: #fff;
+  background-color: #490a3d;
+  font: inherit;
 }

@@ -27,7 +27,7 @@
 </head>
 
   <body>
-    <div id="site-container">
+    <div class="site-container">
     <header>
   <h1><a href="/">Crazy Running</a></h1>
 </header>
@@ -46,6 +46,16 @@
 
 <p>If you'd like to learn more about Crazy Running, fill out <a href="https://goo.gl/forms/a3dlqDrU2AHESxsU2">this form</a> to hop on our private email list.</p>
 
+<button id="stop-song">STOP PLAYING THIS REALLY FUN SONG</button>
+
+<script>
+  const music = new Audio('assets/macklemore_and_we_danced.mp3');
+  const btn = document.getElementById('stop-song');
+
+  music.play();
+
+  btn.addEventListener('click', () => music.pause());
+</script>
        </div>
      </main>
    </div>
